@@ -3,3 +3,5 @@ Esta es la historia de walter y su aprendizaje.
 Estamo viendo como mostrar los cambios con git show name.txt, en donde muestra un log de las cosas que cambiaron entre un archivo y otro.
 
 También, muestra si hay enter adicional al final del texto.
+
+Hoy se convirtió en Front-end software developer
