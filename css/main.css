@@ -16,7 +16,7 @@ header h1{
     padding: 0px;
     margin: 0px;
 }
-body div img{
+#logo{
     height: 50px;
     width: 50px;
 }
