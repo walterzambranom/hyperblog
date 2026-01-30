@@ -34,3 +34,17 @@ header h1{
     border: 2px solid white;
 }
 
+footer{
+    width: 100%;
+    height: 46px;
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    font-size: 14px;
+    background-color: #000000;
+    border-top: 1px solid #e4e4e4;
+}
+
