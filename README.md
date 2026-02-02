@@ -11,3 +11,5 @@ Viene de el **Curso profesional de git y gitHub**, ahora que entiendo como funci
 * **GitHub** - es el almacenamiento del repositorio en la nube (por eso git push origin main)
 
 Creado por el mejor Walter Zambrano morales
+
+Disponible para todas las edades
