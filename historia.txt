@@ -6,4 +6,6 @@ También, muestra si hay enter adicional al final del texto.
 
 Master 1
 
+Master 2
+
 Hoy se convirtió en Front-end software developer
