@@ -10,4 +10,4 @@ Viene de el **Curso profesional de git y gitHub**, ahora que entiendo como funci
 * **Git** - es el repositorio local (nuestra máquina), en donde al iniciar con git init se crea un versionamiento local de nuestros archivos, en la carpeta raíz.
 * **GitHub** - es el almacenamiento del repositorio en la nube (por eso git push origin main)
 
-Creado por el mejor
+Creado por el mejor Walter Zambrano morales
