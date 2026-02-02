@@ -9,3 +9,5 @@ Este repositorio, es el inicio de una nueva etapa en mi vida. Desde hace 8 años
 Viene de el **Curso profesional de git y gitHub**, ahora que entiendo como funciona un repositorio debemos tener en cuenta que git y gitHub son dos cosas diferentes, pero que ayudan a tener orden en los desarrollos que estemos haciendo, a continuación, una breve explicación de ello:
 * **Git** - es el repositorio local (nuestra máquina), en donde al iniciar con git init se crea un versionamiento local de nuestros archivos, en la carpeta raíz.
 * **GitHub** - es el almacenamiento del repositorio en la nube (por eso git push origin main)
+
+Creado por el mejor
