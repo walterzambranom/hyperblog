@@ -4,4 +4,6 @@ Estamo viendo como mostrar los cambios con git show name.txt, en donde muestra u
 
 También, muestra si hay enter adicional al final del texto.
 
+Master 1
+
 Hoy se convirtió en Front-end software developer
